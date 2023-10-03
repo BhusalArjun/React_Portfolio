@@ -38,7 +38,7 @@ const JaavaPage = () => {
               Orginal
             </a>
           </div>
-
+ 
           <div class="box">
             <img src="/assets/images/HTMLSolo.jpg" />
             <h3>HTML (Intrduction)</h3>
